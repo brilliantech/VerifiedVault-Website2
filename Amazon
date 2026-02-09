@@ -1,0 +1,108 @@
+Build a complete Next.js 15 website for VaultVerified, a B2B security platform that prevents Business Email Compromise (BEC) fraud. Follow these exact requirements:
+
+BUSINESS CONTEXT:
+VaultVerified eliminates payment fraud by removing banking changes from email systems entirely. Core philosophy: "Email should never be a system of record for money." Target audience: Finance teams, AP teams, Security leaders at enterprise organizations.
+
+DESIGN REQUIREMENTS:
+
+Inspired by Bank of America's clean, organized, accessible design (https://www.bankofamerica.com/deposits/checking/advantage-banking/)
+
+Clean, calm, authoritative feel - NOT futuristic or AI-looking
+
+Enterprise-grade appearance with minimal scrolling per page
+
+Professional color scheme suitable for financial services
+
+Responsive design with mobile-first approach
+
+Reference design: https://divide-quest-43186657.figma.site
+
+SITE ARCHITECTURE:
+
+Navigation:
+- Home
+- Solutions (dropdown)
+  - Vault (Secure Banking Updates)
+  - NACHA Compliance & Audit  
+  - VAAS (Outsourced Verification)
+- Resources
+- Company
+- Contact
+
+Persistent CTAs: "Request a Demo" + "Sign Up"
+
+Copy
+PAGE STRUCTURE & CONTENT:
+
+1. HOME PAGE:
+
+Hero: "Secure payment changes. Verified identity. Built-in compliance."
+
+Subtext: "VaultVerified prevents ACH and wire fraud by removing banking changes from email, verifying real identities, and creating an auditable, compliant verification process."
+
+Section 2: "Fraud doesn't start with a bad actor - it starts with a trusted email" (educational content about BEC)
+
+Section 3: "Email was never meant to be a financial system" (core problem)
+
+Section 4: Three solution cards (Vault, NACHA, VAAS)
+
+2. SOLUTIONS PAGES:
+
+Vault: 5 W's structure (What/Who/Why/Where/When)
+
+NACHA: March 2026 compliance changes, requirements, how VaultVerified meets standards
+
+VAAS: Verification-as-a-Service description, what's handled, benefits
+
+3. SUPPORTING PAGES:
+
+Resources: Blog, articles, case studies, guides
+
+Company: Mission, philosophy
+
+Contact: Form, support, demo requests
+
+TECHNICAL REQUIREMENTS:
+
+Next.js 15 with App Router
+
+TypeScript throughout
+
+Tailwind CSS for styling
+
+Responsive design
+
+SEO optimized
+
+Fast loading performance
+
+Accessibility compliant
+
+TONE & MESSAGING:
+
+Calm, authoritative, structured
+
+Educational approach (not fear-based)
+
+No hype or fear tactics
+
+Enterprise-grade credibility
+
+Focus on prevention over reaction
+
+KEY DIFFERENTIATORS TO HIGHLIGHT:
+
+Prevention over reaction
+
+Identity over intent
+
+Process over policy
+
+Trust through verification
+
+Compliance built-in, not bolted-on
+
+Create a complete, production-ready website that positions VaultVerified as the authoritative solution for enterprise payment fraud prevention, with clean Bank of America-inspired design and comprehensive content covering all specified sections.
+
+
+check and project i think we have missed most of the as requuest check documentation to and impletement accordingly
